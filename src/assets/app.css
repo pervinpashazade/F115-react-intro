@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-wrapper {
+    padding: 1rem .5rem;
+    font-size: 1.25rem;
+    background-color: rgb(97, 163, 97);
+    color: #000;
+}
